@@ -6,7 +6,7 @@
     cd angular
     npm install
   
-    cd -
+    cd - (or) cd..
     cd nodejs
     npm install
 
